@@ -1,3 +1,16 @@
+# Java技术
+
+
+## Java虚拟机
+
+![avatar](../../images/7-java虚拟机.jpg) 
+
+
+
+
+
+
+
 # Java面试常问
 
 
